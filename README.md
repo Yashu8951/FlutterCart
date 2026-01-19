@@ -1,4 +1,7 @@
-# login_reg
+<<<<<<< HEAD
+# FlutterCart
+FlutterCart is a Flutter-based e-commerce application featuring JWT authentication, product listing, and add-to-cart functionality. It integrates a backend REST API for secure user sessions and supports multiple product categories with a responsive and scalable UI.
+=======
 
 A new Flutter project.
 
@@ -14,3 +17,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+>>>>>>> master
